@@ -30,16 +30,16 @@ We tried the program with 3 versions of dataset splits, where the ratio is train
 *DISCLAIMER: Examples shown may contain words that are offensive.*
 
 70:30 Data Split
-![](/profanity/percobaan(70).png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/profanity/percobaan(70).png)
 ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/profanity/acc(70).png)
 
 80:20 Data Split
-![](/profanity/percobaan(80).png)
-![](/profanity/acc(80).png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/profanity/percobaan(80).png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/profanity/acc(80).png)
 
 90:10 Data Split
-![](/profanity/percobaan(90).png)
-![](/profanity/acc(90).png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/profanity/percobaan(90).png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/profanity/acc(90).png)
 
 ## [Project 2: Transetter](https://github.com/denaiels/Project_Transetter)
 
