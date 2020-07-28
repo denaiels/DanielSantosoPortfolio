@@ -249,4 +249,5 @@ The model gets 52% accuracy:
 
 ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/wine/classification.png)
 
+## [Project 8: Customer Behaviour Clustering](https://github.com/denaiels/Project_Wine-Classification)
 
