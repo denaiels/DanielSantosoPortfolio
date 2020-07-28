@@ -31,7 +31,7 @@ We tried the program with 3 versions of dataset splits, where the ratio is train
 
 70:30 Data Split
 ![](/profanity/percobaan(70).png)
-![](/profanity/acc(70).png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/profanity/acc(70).png)
 
 80:20 Data Split
 ![](/profanity/percobaan(80).png)
