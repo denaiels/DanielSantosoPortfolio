@@ -1,7 +1,7 @@
 # Daniel Santoso's Portfolio
 Hi my name is Daniel Santoso!
 
-# [Project 1: Indonesian Profanity Checker](https://github.com/denaiels/Project_Indonesian-Profanity-Checker)
+## [Project 1: Indonesian Profanity Checker](https://github.com/denaiels/Project_Indonesian-Profanity-Checker)
 
 **Made by Team:**
 1. Albert Lilian Thamson (2201754412)
