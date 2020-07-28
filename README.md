@@ -200,6 +200,8 @@ PopLegal is an mobile-based application that aims to provide legal consultation 
 
 ## [Project 6: CoronaMana](https://github.com/denaiels/Project_CoronaMana)
 
+*Click the title above, to open the Github Repository of this project*
+
 **Made by:**
 
 Daniel Santoso (2201756506)
@@ -224,3 +226,27 @@ Features:
 | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/1_splash_screen.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/2_prompt.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/3_daftar.png) |
 | Sign In | Map | Report |
 | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/3_masuk.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/4_peta.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/5_lapor.png) |
+
+## [Project 7: Wine Classification](https://github.com/denaiels/Project_Wine-Classification)
+
+*Click the title above, to open the Github Repository of this project*
+
+**Made by Team:**
+1. **Daniel Santoso (2201756506) (me)**
+2. Axel Jeremy (2201756140)
+
+**Description:**
+
+Wine Classification is my final project for the Artificial Neural Network course in my Semester 4 of Computer Science Major at BINUS University. This is a program that can classify the quality of a wine based on a few categories, those are volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. StandardScaler and PCA with 4 components are used to do feature engineering. The model used for classification is Backpropagation Neural Network (BPNN) and the output is the accuracy of model.
+
+**My Contributions:**
+- Discussed the project with teammate
+- Coded all the codes needed
+
+**Results:**
+
+The model gets 52% accuracy:
+
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/wine/classification.png)
+
+
