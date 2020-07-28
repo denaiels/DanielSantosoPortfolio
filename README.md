@@ -161,9 +161,9 @@ In case you don't want to open the HTML by yourself, I have provided screenshots
 
 | Part | Screenshot |
 | ----------- | ----------- |
-| Homepage | ![](/ss/homepage.png) |
-| Gallery | ![](/ss/gallery.jpg) |
-| Characters | ![](/ss/characters.png) |
-| Lore | ![](/ss/lore.png) |
-| Pre-Register Beta | ![](/ss/preregister.png) |
+| Homepage | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/xtream/homepage.png) |
+| Gallery | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/xtream/gallery.jpg) |
+| Characters | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/xtream/characters.png) |
+| Lore | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/xtream/lore.png) |
+| Pre-Register Beta | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/xtream/preregister.png) |
 
