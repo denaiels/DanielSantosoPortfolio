@@ -221,6 +221,6 @@ Features:
 
 | Splash Screen | Prompt | Sign Up |
 | ----------- | ----------- | ----------- |
-| ![](/ui_prototype/https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/1_splash_screen.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/2_prompt.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/3_daftar.png) |
+| ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/1_splash_screen.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/2_prompt.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/3_daftar.png) |
 | Sign In | Map | Report |
 | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/3_masuk.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/4_peta.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/5_lapor.png) |
