@@ -130,11 +130,11 @@ Here are the results...
 
 Slovakian Dataset using Random Forest:
 
-![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/lifestyle/slovak.png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/lifestyle/dataslovak.png)
 
 Indonesian Dataset using Random Forest:
 
-![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/lifestyle/indo.png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/lifestyle/dataindo.png)
 
 ## [Project 4: Xtream Chaser](https://github.com/denaiels/Project_XtreamChaser)
 
@@ -251,3 +251,18 @@ The model gets 52% accuracy:
 
 ## [Project 8: Customer Behaviour Clustering](https://github.com/denaiels/Project_Wine-Classification)
 
+*Click the title above, to open the Github Repository of this project*
+
+**Made by Team:**
+1. **Daniel Santoso (2201756506) (me)**
+2. Axel Jeremy - 2201756140
+
+**Description:**
+
+User Behaviour Clustering is my final project for the Artificial Neural Network course in my Semester 4 of Computer Science Major at BINUS University. This is a program that can cluster the customers according to their behaviour. PCA with 3 components are used to do feature engineering. The model used for clustering is Self-Organizing Map and the output is the visualization of the model.
+
+**Results:**
+
+Visualization of the model after 5000 epochs:
+
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/customer/clustering.png)
