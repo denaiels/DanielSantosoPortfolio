@@ -190,10 +190,10 @@ PopLegal is an mobile-based application that aims to provide legal consultation 
 
 | Splash Screen | Prompt | Login |
 | ----------- | ----------- | ----------- |
-| ![](/ui_prototype/1_splash_screen.png) | ![](/ui_prototype/2_prompt.png) | ![](/ui_prototype/3_login.png) |
+| ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/1_splash_screen.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/2_prompt.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/3_login.png) |
 | Sign Up | Choose Service | Select an Advocate/Notary |
-| ![](/ui_prototype/4_sign_up.png) | ![](/ui_prototype/5_choose_service.png) | ![](/ui_prototype/6_select_advocatenotary.png) |
+| ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/4_sign_up.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/5_choose_service.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/6_select_advocatenotary.png) |
 | Overview | Overview (scrolled) | Chat |
-| ![](/ui_prototype/7_overview.png) | ![](/ui_prototype/8_overview(scrolled).png) | ![](/ui_prototype/9_chat.png) |
+| ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/7_overview.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/8_overview(scrolled).png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/9_chat.png) |
 | Feedback |
-| ![](/ui_prototype/10_feedback.png) |
+| ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/10_feedback.png) |
