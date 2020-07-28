@@ -87,7 +87,7 @@ Here is the UI Design of Transetter made by my colleague, Steven Odolf Yuwono:
 | Select Destination | Select Transportation | Navigation |
 | ![](/transetter/destination_screen.jpg) | ![](/transetter/select_transportation.jpg) | ![](/transetter/navigation.jpg) |
 
-## [Project: The Relationship Between People's Music Preferences and Their Health Lifestyle](https://github.com/denaiels/Project_Relationship-Music-Health)
+## [Project 3: The Relationship Between People's Music Preferences and Their Health Lifestyle](https://github.com/denaiels/Project_Relationship-Music-Health)
 
 *Click the title above, to open the Github Repository of this project*
 
@@ -114,8 +114,13 @@ The methods we use to process the data and get insight are:
 To see the full explanation on this research, please kindly open our report on the folder "Report" with the file name of "Laporan Project Machine Learning_AlbertDanielLuwisSteven"
 
 **My Contributions:**
-
-
+- Discussed and brainstormed together with teammates to get the idea of the project.
+- I initiated the idea of the project
+- Took part in cleaning the dataset
+- Coded the KNN and Random Forest models of the project
+- Made the analysis for KNN and Random Forest results
+- Compiled all the analysis of all the models from my teammates
+- Made the conclusion of the project
 
 **Results:**
 
