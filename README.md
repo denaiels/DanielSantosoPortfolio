@@ -3,6 +3,8 @@ Hi my name is Daniel Santoso!
 
 ## [Project 1: Indonesian Profanity Checker](https://github.com/denaiels/Project_Indonesian-Profanity-Checker)
 
+*Click the title above, to open the Github Repository of this project*
+
 **Made by Team:**
 1. Albert Lilian Thamson (2201754412)
 2. **Daniel Santoso (2201756506) (me)**
@@ -14,6 +16,10 @@ Hi my name is Daniel Santoso!
 Indonesian Profanity Checker is my final project for the Natural Language Processing course in my Semester 4 of Computer Science Major at BINUS University.
 
 Indonesian Profanity Checker is a program to check whether an input sentence contains profane/harsh words or not. In this project, the dataset used is a list of YouTube video comments from the Indonesian YouTuber Ericko Lim, which mostly is of Indonesian language (many are slang languages) and these comments tend to have profane/harsh words within them, and each of the comment is tagged as 'PROFANE' or 'CLEAN'. Our Indonesian Profanity Checker works using Bag-of-Words method, where in the training process, it is fed with the dataset we have provided and it learns which words are profane by counting the words' occurence in sentences that are considered profane or not profane. We also used Indonesian common stopwords to filter the dataset.
+
+**My contributions:**
+
+First, me and my team discussed about the idea and brainstormed together until we get the final decision to make this project. I helped at the research to accomplish the goals that we have set. I coded most of the program in Python programming language and also helped on cleaning the dataset used.
 
 **Results:**
 
@@ -34,6 +40,8 @@ We tried the program with 3 versions of dataset splits, where the ratio is train
 ![](/profanity/acc(90).png)
 
 ## [Project 2: Transetter](https://github.com/denaiels/Project_Transetter)
+
+*Click the title above, to open the Github Repository of this project*
 
 **Made by Team:**
 1. Albert Lilian Thamson (2201754412)
@@ -61,7 +69,13 @@ Choice 2 : Distance 4.5 km, ETA: 30 minutes, Total price Rp13.500,-
 
 Users can choose between using 1 mean of transportation and faster but more expensive, or using 2 means of transportation that is cheaper, but longer on the way. This is the unique feature that Transetter provides for its users. This app not only provides those choices to guide the users, but users can also book the orders through the app itself, except for a few vendors that have their own app, then Transetter will automatically redirect the user to the app related. This makes Transetter unique and very much helpful for users.
 
+**My Contributions:**
+
+I initiated the idea of a transportation mobile app that have such unique features. I also gave the name of the app. I helped at defining the core aspects of the application, such as the purpose and features. I also made the logo of Transetter.
+
 **UI Design:**
+
+Here is the UI Design of Transetter made by my colleague, Steven Odolf Yuwono:
 
 | Splash Screen | Main Menu | Saved Place |
 | ----------- | ----------- | ----------- |
