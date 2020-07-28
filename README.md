@@ -83,9 +83,9 @@ Here is the UI Design of Transetter made by my colleague, Steven Odolf Yuwono:
 
 | Splash Screen | Main Menu | Saved Place |
 | ----------- | ----------- | ----------- |
-| ![](/transetter/splash_screen.jpg) | ![](/transetter/main_menu.jpg) | ![](/transetter/saved_place.jpg) |
+| ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/transetter/splash_screen.jpg) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/transetter/main_menu.jpg) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/transetter/saved_place.jpg) |
 | Select Destination | Select Transportation | Navigation |
-| ![](/transetter/destination_screen.jpg) | ![](/transetter/select_transportation.jpg) | ![](/transetter/navigation.jpg) |
+| ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/transetter/destination_screen.jpg) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/transetter/select_transportation.jpg) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/transetter/navigation.jpg) |
 
 ## [Project 3: The Relationship Between People's Music Preferences and Their Health Lifestyle](https://github.com/denaiels/Project_Relationship-Music-Health)
 
@@ -130,9 +130,9 @@ Here are the results...
 
 Slovakian Dataset using Random Forest:
 
-![](/lifestyle/slovak.png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/lifestyle/slovak.png)
 
 Indonesian Dataset using Random Forest:
 
-![](/lifestyle/indo.png)
+![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/lifestyle/indo.png)
 
