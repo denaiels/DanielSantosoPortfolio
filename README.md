@@ -197,3 +197,30 @@ PopLegal is an mobile-based application that aims to provide legal consultation 
 | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/7_overview.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/8_overview(scrolled).png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/9_chat.png) |
 | Feedback |
 | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/poplegal/10_feedback.png) |
+
+## [Project 6: CoronaMana](https://github.com/denaiels/Project_CoronaMana)
+
+**Made by:**
+
+Daniel Santoso (2201756506)
+
+**Description:**
+
+CoronaMana is my mid exam project for the Human-Computer Interaction course in my Semester 4 of Computer Science Major at BINUS University.
+
+CoronaMana is a mobile-based application with a purpose to encourage people to stay away from areas indicated with COVID-19 traces so that infection count can be minimalized.
+
+Features:
+- Giving location information of people indicated with COVID-19 infection (ODP, PDP, Suspect, Positive, and Cured)
+- Giving information of the history of places where the infected person went
+- Live count of COVID-19 infection in Indonesia (cases, death, and cured)
+- Giving tips to prevent infection of COVID-19
+- Report feature to report COVID-19 cases around the user
+
+**UI Design:**
+
+| Splash Screen | Prompt | Sign Up |
+| ----------- | ----------- | ----------- |
+| ![](/ui_prototype/https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/1_splash_screen.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/2_prompt.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/3_daftar.png) |
+| Sign In | Map | Report |
+| ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/3_masuk.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/4_peta.png) | ![](https://raw.githubusercontent.com/denaiels/DanielSantosoPortfolio/master/coronamana/5_lapor.png) |
